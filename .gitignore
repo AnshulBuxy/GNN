@@ -1,0 +1,25 @@
+# Directories
+tags
+__pycache__
+
+# Ignore big data files
+data/traffic_data.csv
+data/traffic_data.pkl
+data/time_series_test.pkl
+data/time_series_val.pkl
+data/time_series_train.pkl
+
+# Ignore Vim temporary files
+*.swp
+*.swo
+
+graph/
+.env
+*.pt
+*.pth
+*.h5
+*.zip
+*.csv
+datasets/
+data/
+node_modules/
